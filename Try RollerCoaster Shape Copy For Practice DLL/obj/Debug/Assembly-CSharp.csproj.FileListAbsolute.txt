@@ -1,0 +1,508 @@
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Assembly-CSharp.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Boo.Lang.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\mscorlib.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\System.Core.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\System.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\System.Runtime.Serialization.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\System.Xml.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\System.Xml.Linq.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.Locator.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.TextMeshPro.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEditor.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AIModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ARModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AudioModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ClothModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.CoreModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.GridModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.InputModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.Timeline.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TLSModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UI.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UIModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UNETModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.VideoModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.VRModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.WindModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.XRModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityScript.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityScript.Lang.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.Cecil.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.DataContract.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\ExCSS.Unity.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Boo.Lang.Parser.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Boo.Lang.Compiler.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.IvyParser.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Boo.Lang.Useful.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\Unity.CecilTools.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEditor.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AIModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ARModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.AudioModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ClothModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.CoreModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.GridModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.InputModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TLSModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UIModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UNETModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.VRModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.VideoModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.WindModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.XRModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.UI.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.Timeline.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\obj\Debug\Assembly-CSharp.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\obj\Debug\Assembly-CSharp.pdb
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Assembly-CSharp.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\mscorlib.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.Core.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.Runtime.Serialization.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.Xml.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.Xml.Linq.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\TestDLL.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.Locator.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.TextMeshPro.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityDLL.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEditor.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AIModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ARModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AudioModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClothModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CoreModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GridModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.InputModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Timeline.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TLSModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UI.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UIModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UNETModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VideoModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VRModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.WindModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.XRModule.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityScript.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityScript.Lang.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.Cecil.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.DataContract.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\ExCSS.Unity.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.Parser.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.Compiler.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.IvyParser.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.Useful.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.CecilTools.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEditor.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AIModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ARModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AudioModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClothModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CoreModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GridModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.InputModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TLSModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UIModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UNETModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VRModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VideoModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.WindModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.XRModule.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UI.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Timeline.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.dll
+G:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.pdb
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\mscorlib.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.Core.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.Xml.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\TestDLL.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.Locator.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityDLL.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEditor.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityScript.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.Cecil.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.DataContract.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEditor.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.dll
+C:\Hannah\WorkSpace\Unity\Try RollerCoaster Shape Copy For Practice DLL\obj\Debug\Assembly-CSharp.pdb

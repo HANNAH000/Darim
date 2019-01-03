@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Profile>
+	<FILTER>
+		<ActALimit_reltog>0.300000</ActALimit_reltog>
+		<bEnableHT_HPF>0</bEnableHT_HPF>
+		<HT_1stOrderHPF_Fc_Hz>0.300000</HT_1stOrderHPF_Fc_Hz>
+	</FILTER>
+	<ACT>
+		<fLeadDistanceUnitMm>10.0</fLeadDistanceUnitMm>
+		<iOneTurnPulseNum>10000</iOneTurnPulseNum>
+		<fGear>1.5</fGear>
+		<fLimitLengthUnitMm>70.0</fLimitLengthUnitMm>
+		<fDiamMM>675.0</fDiamMM>0
+	</ACT>
+	<EX>
+		<fInitHOffset>33.0</fInitHOffset>
+	</EX>
+	<VR_SB_PARAMS>
+		<fLimAXYZE>2.000000</fLimAXYZE>
+		<fLimRPYRate>60.000000</fLimRPYRate>
+		<fLimRoll>15.000000</fLimRoll>
+		<fLimPitch>30.000000</fLimPitch>
+		<fLimYaw>3600.000000</fLimYaw>
+		<Fc_VRSB_PVAF_Hz>10.000000</Fc_VRSB_PVAF_Hz>
+	</VR_SB_PARAMS>
+</MD_Profile>
